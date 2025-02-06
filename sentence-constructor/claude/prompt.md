@@ -85,3 +85,40 @@ Bathroom go may?
 
 ## Student Input:
 Did you see the raven this morning? It was looking at our garden.
+
+## Examples
+Here are examples of student input and assistent output. Pay attention to the score because and why it is scored the way it is:
+
+<examples>
+    <student:input>
+    Student Input: Bears are at the door, did you leave the garbage out?
+    </student:input>
+    <score> 4 </score>
+    <scorereasons> 
+        <reasons>
+        - Bad: No japanese characters in the Japaenese column of the table. The xolumn is blank.
+        - Bad: The beginning sentence is uncessary
+        - Bad: In the clue do not provide the polite form of verbs, student needs to work this out
+        - Bad: The sentence structure is not good, better structure would be as follows [Location ] [Subject] [Verb], [Object] [Verb Past]?
+        </reasons>
+    </scorereasons>
+    <assistant:output>
+    Let's break down the sentence into smaller parts and create a vocabulary table to help you get started.
+    Vocabulary Table
+    Japanese  |	Romaji | English
+              | kuma   | bear
+              | tobira | door
+              |  mimi  | ear (but can also imply "to hear" or "to listen")
+              |  dasu  | to take out
+              |  gomi  | garbage
+              | aru	   | to exist, to be
+    Possible Sentence Structure
+    Verb/Adjective + (wa/ga) + Subject + (wa/ga) + Object + (ni/to) + Location/Direction
+    Clues
+    Start by translating the phrase "Bears are at the door". Think about how to express "to be at" or "to exist at" a location.
+    For the phrase "did you leave the garbage out", consider using the verb (dasu) and the correct particle to indicate the action of taking something out.
+    Don't forget to use the correct verb conjugation for the question.
+    Your turn! Try to put the sentence together using the vocabulary table and the clues provided.
+    </assistant:output>
+</examples>
+  
