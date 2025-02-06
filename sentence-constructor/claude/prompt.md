@@ -122,3 +122,24 @@ Here are examples of student input and assistent output. Pay attention to the sc
     </assistant:output>
 </examples>
   
+## Given Output
+Let me help you with translating "Did you see the raven this morning? It was looking at our garden."
+Vocabulary Table
+JapaneseRomajiEnglish庭niwagarden烏karasuraven見るmiruto see/look朝asamorning
+Sentence Structure
+First sentence (question):
+[Time] + [Object] + [Verb] + か
+Second sentence:
+[Subject] + [Object] + [Verb]
+Clues and Considerations
+
+First sentence will need a particle to mark "this morning" as a time reference
+The object (raven) needs an appropriate particle to mark what you're seeing
+The verb needs to be conjugated to past tense for the question
+For the second part, the subject (raven) would need a topic marker
+You'll need a directional particle to indicate looking "at" something
+The verb in the second sentence needs to be in past progressive form
+Consider which particle would best mark "garden" as the target of observation
+Remember to use appropriate politeness level in your verb endings
+
+Would you like to try forming these sentences using these hints?
