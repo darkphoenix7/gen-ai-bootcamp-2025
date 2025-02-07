@@ -167,3 +167,42 @@ Here are examples of student input and assistent output. Pay attention to the sc
     </assistant:output>
 </examples>
   
+## Given Output
+Current State: Setup
+Vocabulary Table
+JapaneseRomajiEnglishカラスkarasuraven庭niwagarden見るmiruto see, to look朝asamorning私たちwatashitachiwe, our
+Sentence Structure
+For the first sentence:
+[Time] + [Object] + [Verb Past Question]
+For the second sentence:
+[Subject] + [Object] + [Verb Past Progressive]
+Clues and Considerations
+
+The first sentence is a question, so you'll need the question particle at the end
+For past tense verbs, remember to use the correct conjugation
+When describing continuous actions in the past (was looking), you'll need the correct form
+Consider the particles needed to mark:
+
+Time (this morning)
+Object (what was seen)
+Location (at the garden)
+
+
+Remember that Japanese often omits subjects when they're clear from context
+
+Your turn! Try to construct the first sentence using these elements.Last edited 1 minute ago
+
+## First Attempt Output
+
+asa miru karasu, watashitachi niwa miru
+
+
+Current State: Attempt
+I'll help interpret what you've written and provide guidance.
+
+Your attempt translates roughly to:
+"Morning see raven, our garden see"
+
+Japanese Language Lesson
+Click to open document
+Would you like to try the first sentence again with these considerations in mind?
